@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Twitter Thread Maker</string>
+    <string name="longname">I looked for something in between, where a human would design a tactic (or a strategybuilt from little tactics) and submit it to the machine together with the thing to be proved.There would be interaction; if one tactic failed or partly failed then the machine would sayso, and the human could suggest another. The key thing was that, although the tacticscould be adventurous, the machine would only claim success if a real proof was found. Infact, in a successful case the machine could proudly export the proof that was found sothat another independently written program (of the fully noninventive kind) could checkit.</string>
+</resources>
